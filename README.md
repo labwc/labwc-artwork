@@ -1,6 +1,6 @@
 # labwc-artwork
 
-This repository is for [`labwc`](https://github.com/labwc/labwc) wayland compositor users and developers to add a icons, wallpapers, themes or other general artwork.
+This repository is for [`labwc`](https://github.com/labwc/labwc) wayland compositor users and developers to add icons, wallpapers, themes or other general artwork.
 
 Image format is not important, but in the spirit of the `labwc` project, all additions should be light weight.
 
