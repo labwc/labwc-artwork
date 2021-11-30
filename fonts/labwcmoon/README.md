@@ -12,4 +12,4 @@ See Above.
 
 ## Usage
 
-These icons are to be used any way you want on your desktop or website. They include the Labwc logo featured in the main repository and a _bunsenlabs_ logo glyph (both authored by me, @01micko, as a very slight variation of the original author's `bl-flame-48px.svg` - note to original author: please make contact or issue a PR against this file for attribution if needed) as a nod to @johanmalm and [bunsenlabs](https://www.bunsenlabs.org/) Linux, without which I doubt the `labwc` project would have been initiated.
+These icons are to be used any way you want on your desktop or website. They include the Labwc logo featured in the main repository and a _bunsenlabs_ logo glyph (both authored by me, @01micko, as a very slight variation of the original author's `bl-flame-48px.svg` - note to original author: please make contact or issue a PR against this file for attribution if needed) as a nod to @johanmalm and [bunsenlabs](https://www.bunsenlabs.org/) Linux, without which I doubt the `labwc` project would have been initiated. See [USAGE](USAGE.md).
