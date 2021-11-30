@@ -7,4 +7,4 @@
 
 ![labwcmoon demo](lwc-font-usage.png)
 
-For further docs se the [IcoMoon Docs](https://icomoon.io/#docs)
+For further docs see the [IcoMoon Docs](https://icomoon.io/#docs)
