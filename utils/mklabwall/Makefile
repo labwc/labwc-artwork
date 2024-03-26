@@ -2,16 +2,16 @@ CC?=cc
 CFLAGS+=-Wall -pedantic -std=gnu99 $(shell pkg-config --cflags pangocairo)
 LDFLAGS+=$(shell pkg-config --libs pangocairo)
 
-all: mkwallpaper
+all: mklabwall
 
-mkwallpaper: mkwallpaper.o
+mklabwall: mklabwall.o
 	$(CC) -o $@ $^ $(LDFLAGS)
 
-mkwallpaper.o: mkwallpaper.c
+mklabwall.o: mklabwall.c
 	$(CC) -o $@ $(CFLAGS) -c $^
 
 install:
-	install -s -m 0755 mkwallpaper $(DESTDIR)/usr/bin/
+	install -s -m 0755 mklabwall $(DESTDIR)/usr/local/bin/
 
 clean:
-	-rm -f *.o mkwallpaper
+	-rm -f *.o mklabwall
