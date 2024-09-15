@@ -6,7 +6,7 @@ window.button.width: 25
 window.button.spacing: 13
 
 window.inactive.title.bg.color: #242424
-window.active.title.bg.color: #353535
+window.active.title.bg.color: #303030
 window.active.label.text.color: #ffffff
 window.inactive.label.text.color: #ffffff
 window.active.border.color: #303030
@@ -14,11 +14,11 @@ window.inactive.border.color: #303030
 window.active.button.unpressed.image.color: #eeeeec
 window.inactive.button.unpressed.image.color: #eeeeec
 
-menu.items.bg.color: #353535
+menu.items.bg.color: #303030
 menu.items.text.color: #ffffff
 menu.items.active.bg.color: #5d5d5d
 menu.items.active.text.color: #ffffff
 
-osd.bg.color: #353535
+osd.bg.color: #303030
 osd.border.color: #030c17
 osd.label.text.color: #eeeeec
