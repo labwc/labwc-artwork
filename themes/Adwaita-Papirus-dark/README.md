@@ -7,13 +7,10 @@ Recommended `rc.xml` theme settings:
 ```xml
   <theme>
     <name>GTK</name>
-    <titleLayout>DSLWIMC</titleLayout>
+    <titlebar layout=":menu,iconify,max,close" showTitle="yes" />
     <cornerRadius>14</cornerRadius>
     <dropShadows>yes</dropShadows>
-    <font>
-      <name>Cantarell</name>
-      <size>12</size>
-    </font>
+    <font name="Cantarell" size="12" />
   </theme>
 ```
 
