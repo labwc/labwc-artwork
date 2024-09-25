@@ -6,7 +6,7 @@ Recommended `rc.xml` theme settings:
 
 ```xml
   <theme>
-    <name>GTK</name>
+    <name>Adwaita-Papirus-Dark</name>
     <titlebar layout=":menu,iconify,max,close" showTitle="yes" />
     <cornerRadius>14</cornerRadius>
     <dropShadows>yes</dropShadows>
