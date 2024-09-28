@@ -10,7 +10,11 @@ Recommended `rc.xml` theme settings:
     <titlebar layout=":menu,iconify,max,close" showTitle="yes" />
     <cornerRadius>14</cornerRadius>
     <dropShadows>yes</dropShadows>
-    <font name="Cantarell" size="12" />
+    <font place="ActiveWindow" name="Cantarell" size="12" weight="bold" />
+    <font place="InactiveWindow" name="Cantarell" size="12" weight="bold" />
+    <font place="MenuHeader" name="Cantarell" size="12" weight="bold" />
+    <font place="MenuItem" name="Cantarell" size="12" />
+    <font place="OnScreenDisplay" name="Cantarell" size="12" />
   </theme>
 ```
 

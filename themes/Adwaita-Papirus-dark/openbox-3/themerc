@@ -8,7 +8,7 @@ window.button.spacing: 13
 window.inactive.title.bg.color: #242424
 window.active.title.bg.color: #303030
 window.active.label.text.color: #ffffff
-window.inactive.label.text.color: #ffffff
+window.inactive.label.text.color: #8e8e8e
 window.active.border.color: #303030
 window.inactive.border.color: #303030
 window.active.button.unpressed.image.color: #eeeeec
