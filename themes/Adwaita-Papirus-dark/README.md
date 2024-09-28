@@ -18,3 +18,4 @@ The icons are based on the icons found in the Adwaita-dark button theme in this 
 
 Obligatory screenshot:
 
+![Screenshot](https://github.com/user-attachments/assets/8a5ed90c-0283-4967-9f88-c004ec22ca6c)
