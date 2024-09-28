@@ -32,4 +32,4 @@ The icons are based on the icons found in the [Adwaita-dark button theme](https:
 
 Obligatory screenshot:
 
-![Screenshot](https://github.com/user-attachments/assets/8a5ed90c-0283-4967-9f88-c004ec22ca6c)
+![Screenshot](https://github.com/user-attachments/assets/8752fbb5-7ff7-4973-8f55-94cdbf6e331d)
