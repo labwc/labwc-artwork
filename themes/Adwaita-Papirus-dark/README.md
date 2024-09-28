@@ -15,3 +15,6 @@ Recommended `rc.xml` theme settings:
 ```
 
 The icons are based on the icons found in the Adwaita-dark button theme in this repository and on the icons of the great Papirus icon theme.
+
+Obligatory screenshot:
+
