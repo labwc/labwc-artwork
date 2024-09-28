@@ -14,6 +14,16 @@ Recommended `rc.xml` theme settings:
   </theme>
 ```
 
+Recommended Gnome Tweaks settings:
+
+- Appearance
+  - Icons: Papirus-Dark
+  - Legacy Applications (GTK3): Adw-gtk3-dark
+- Titlebar Buttons
+  - Maximize: On
+  - Minimize: On
+  - Placement: Right
+
 The icons are based on the icons found in the [Adwaita-dark button theme](https://github.com/labwc/labwc-artwork/tree/main/button-themes/svg/Adwaita-dark) in this repository and on the icons of the great [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 
 Obligatory screenshot:
