@@ -1,6 +1,6 @@
 # Adwaita Papirus Dark
 
-This theme tries to mimic the appearance of the [Adwaita Dark GTK](https://gnome.pages.gitlab.gnome.org/libadwaita/) theme together with the Pairus Dark icon theme.
+This theme tries to mimic the appearance of the [Adwaita Dark GTK](https://gnome.pages.gitlab.gnome.org/libadwaita/) theme and [colors](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1.2/named-colors.html) together with the Pairus Dark icon theme.
 
 Recommended `rc.xml` theme settings:
 
@@ -29,6 +29,8 @@ Recommended Gnome Tweaks settings:
   - Placement: Right
 
 The icons are based on the icons found in the [Adwaita-dark button theme](https://github.com/labwc/labwc-artwork/tree/main/button-themes/svg/Adwaita-dark) in this repository and on the icons of the great [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
+
+This theme requires `labwc` version 0.8.1 or newer.
 
 Obligatory screenshot:
 
