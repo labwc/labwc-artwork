@@ -3,6 +3,6 @@
   <defs id="defs1"/>
   <g id="layer1">
     <circle style="fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.529165;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1" id="circle2" cx="3.4395833" cy="3.4395833" r="3.4395833"/>
-    <path style="fill:#8e8e8e" d="M 2.44 2.19 L 2.44 2.69 L 4.44 2.69 L 4.44 2.19 L 2.44 2.19 Z"/>
+    <path style="fill:#8e8e8e" d="M 2.19 2.19 L 2.19 2.815 L 4.69 2.815 L 4.69 2.19 L 2.19 2.19 Z"/>
   </g>
 </svg>
