@@ -1,0 +1,43 @@
+!! Windows 3.1 Looklike
+
+!!General
+
+window.button.width: 24
+window.button.height: 24
+
+window.titlebar.padding.width: 0
+window.titlebar.padding.height: 0
+border.width: 4
+menu.overlap.x: 0 
+menu.overlap.y: 0
+*.text.justify: center
+
+!!Common
+
+*.border.color: #C0C0C0
+
+!!Menu
+
+menu.border.width: 4
+menu.title.bg.color: #000080
+menu.title.text.color: #FFFFFF
+
+menu.items.bg.color: #FFFFFF
+menu.items.active.bg.color: #000080
+
+menu.items.text.color: #000000
+menu.items.active.text.color: #FFFFFF
+
+menu.separator.width: 1
+menu.separator.padding.width: 0
+menu.separator.color: #000000
+
+!!Active
+
+window.active.title.bg.color: #000080
+window.active.label.text.color: #FFFFFF
+
+!!Inactive
+
+window.inactive.title.bg.color: #FFFFFF
+window.inactive.label.text.color: #000000
