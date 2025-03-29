@@ -30,7 +30,7 @@ Recommended Gnome Tweaks settings:
 
 The icons are based on the icons found in the [Adwaita-dark button theme](https://github.com/labwc/labwc-artwork/tree/main/button-themes/svg/Adwaita-dark) in this repository and on the icons of the great [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 
-This theme requires `labwc` version 0.8.1 or newer.
+This theme requires `labwc` version 0.8.3 or newer.
 
 Obligatory screenshot:
 
