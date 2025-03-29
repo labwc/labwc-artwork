@@ -1,6 +1,6 @@
 # Adwaita Papirus Dark
 
-This theme tries to mimic the appearance of the [Adwaita Dark GTK](https://gnome.pages.gitlab.gnome.org/libadwaita/) theme and [colors](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1.2/named-colors.html) together with the Pairus Dark icon theme.
+This theme tries to mimic the appearance of the [Adwaita 1.5 Dark GTK](https://gnome.pages.gitlab.gnome.org/libadwaita/) theme and [colors](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1.5/named-colors.html) together with the Pairus Dark icon theme.
 
 Recommended `rc.xml` theme settings:
 
